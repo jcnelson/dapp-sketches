@@ -70,7 +70,7 @@ instead of their overall design goals.  Chief among them, they are:
 Decentralized apps pre-date blockchains and smart contracts,
 and even today there are popular dapps
 that do not need them.  Examples include pre-Microsoft Skype (which was
-peer-topeer), Mastadon, IRC, and email.  All Blockstack dapps do not use
+peer-to-peer), Mastadon, IRC, and email.  All Blockstack dapps do not use
 smart contracts at all.
 
 Another word for "smart contract" is "replicated state machine."  Some dapps
